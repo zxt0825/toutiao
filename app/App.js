@@ -18,7 +18,7 @@ import Swiper from 'react-native-swiper';
 import TabNavigator from 'react-native-tab-navigator'
 
 
-export default class Tabnavigator extends Component {
+export default class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
